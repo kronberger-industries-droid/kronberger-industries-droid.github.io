@@ -1,0 +1,317 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[university-obsidian-vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://kronberger-industries-droid.github.io/</link><image><url>https://kronberger-industries-droid.github.io/lib/media/favicon.png</url><title>university-obsidian-vault</title><link>https://kronberger-industries-droid.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 22 Feb 2025 21:48:32 GMT</lastBuildDate><atom:link href="https://kronberger-industries-droid.github.io/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 22 Feb 2025 21:48:26 GMT</pubDate><copyright><![CDATA[Martin Kronberger]]></copyright><ttl>60</ttl><dc:creator>Martin Kronberger</dc:creator><item><title><![CDATA[Digitale Messtechnik]]></title><description><![CDATA[ 
+ <br><br><br><img alt="table_jk-flipflop.svg" src="https://kronberger-industries-droid.github.io/table_jk-flipflop.svg"><br><br><img alt="esb_4-bit-binärzähler.svg" src="https://kronberger-industries-droid.github.io/esb_4-bit-binärzähler.svg"><br><br><img alt="graph_4-bit-binärzähler.svg" src="https://kronberger-industries-droid.github.io/graph_4-bit-binärzähler.svg"><br><br><br><br>Gesucht:<br><br><br>
+<br><br><img alt="esb_digitale-frequenz-messung.svg" src="https://kronberger-industries-droid.github.io/esb_digitale-frequenz-messung.svg">]]></description><link>https://kronberger-industries-droid.github.io/digitale-messtechnik.html</link><guid isPermaLink="false">Digitale Messtechnik.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Fri, 21 Feb 2025 16:46:19 GMT</pubDate><enclosure url="https://kronberger-industries-droid.github.io/table_jk-flipflop.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://kronberger-industries-droid.github.io/table_jk-flipflop.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Elektronische Messtechnik]]></title><description><![CDATA[ 
+ <br><br>VO 134.161 - ab WS 2024/25  <br><br><br>
+<br>Was versteht man unter Empfindlichkeit, Auflösung, Genauigkeit, Linearität, Messbereich?  
+<br><br>
+<br>Welche Verstärkertypen kennen Sie?  
+<br>Geben Sie die Ersatzschaltbilder und die jeweiligen Definitionen für den Übertragungsfaktor an.  
+<br><br>
+<br>Was versteht man unter Rückkopplung, Mitkopplung, Gegenkopplung?  
+<br>Warum werden Verstärker gegengekoppelt?  
+<br>Wie beeinflusst die GK den Verstärkungsfaktor (Ableitung!)?  
+<br><br>
+<br>
+Geben Sie die Schaltung für den gegengekoppelten u/u-Verstärker an und berechnen Sie dessen Übertragungsfaktor.  
+
+<br>
+Welche Eigenschaften besitzt die Schaltung und wann wird sie bevorzugt eingesetzt?  
+
+<br>
+Geben Sie die Schaltung für den gegengekoppelten u/i-Verstärker an und berechnen Sie dessen Übertragungsfaktor.  
+
+<br>
+Welche Eigenschaften besitzt die Schaltung und wann wird sie bevorzugt eingesetzt?  
+
+<br>
+Geben Sie die Schaltung für den gegengekoppelten i/u-Verstärker an und berechnen Sie dessen Übertragungsfaktor.  
+
+<br>
+Welche Eigenschaften besitzt die Schaltung und wann wird sie bevorzugt eingesetzt?  
+
+<br>
+Geben Sie die Schaltung für den gegengekoppelten i/i-Verstärker an und berechnen Sie dessen Übertragungsfaktor.  
+
+<br>
+Welche Eigenschaften besitzt die Schaltung und wann wird sie bevorzugt eingesetzt?  
+
+<br><br>
+<br>Was versteht man unter einem "Ladungsverstärker"?  
+<br>Geben Sie die Schaltung an und berechnen Sie den allgemeinen Zusammenhang zwischen Ausgangs- und Eingangsspannung.  
+<br><br>
+<br>Was sind die Ursachen für Nullpunktsfehler beim realen Operationsverstärker?  
+<br>Wie lassen sich Nullpunktsfehler kompensieren?  
+<br>Was versteht man unter Offset-Spannung und Offset-Drift?  
+<br><br>
+<br>Differential-Transformator: Erklären Sie das Prinzip und wofür es bevorzugt eingesetzt wird.  
+<br>Hall-Sonde: Erklären Sie das Prinzip und wofür sie eingesetzt wird (Beispiele).  
+<br>Thermoelement: Erklären Sie das Prinzip, die bevorzugte Anwendung und elektronische Problemstellungen.  
+<br>Halbleiter-Temperatursensor: Erklären Sie das Prinzip.  
+<br>Fotodiode: Erklären Sie das Prinzip und die Betriebsarten (Eigenschaften, Vor-/Nachteile).  
+<br>Piezoelektrischer Effekt: Erklären Sie den Effekt, die Polarisationseffekte und die Klassen piezoelektrischer Materialien.  
+<br><br>
+<br>Geben Sie Prinzipschaltungen zur Messung von ohmschen Widerständen an.  
+<br>Was versteht man unter einer Abgleich-Messbrücke?  
+<br>Berechnen Sie die Brückenspannung für eine Abgleich-Messbrücke mit ohmschen Widerständen.  
+<br>Was versteht man unter einer Ausschlag-Messbrücke?  
+<br>Berechnen Sie die Brückenspannung für eine Viertelbrücke mit ohmschen Widerständen. 
+<br>Was versteht man unter Viertel- / Halb- / Vollbrücke?  
+<br>Was sind die Vor- und Nachteile der einzelnen Varianten und wofür werden sie bevorzugt eingesetzt?  
+<br>Wie ist der (allgemeine) Zusammenhang zwischen Widerstand und Temperatur bei Metall-Widerstandsfühlern?  
+<br>Geben Sie eine geeignete Mess-Schaltung an.  
+<br><br>
+<br>Welche Arten von kapazitiven Aufnehmern kennen Sie?  
+<br>Geben Sie Beispiele, Skizzen und Anwendungen.  
+<br><br>
+<br>Erklären Sie die Funktion eines Binärzählers mit JK-Flipflops (Impulsdiagramm!).  
+<br>Geben Sie eine Prinzipschaltung zur digitalen Frequenzmessung an.  
+<br><br>
+<br>Erklären Sie das Abtast-Theorem.  
+<br>Was geschieht bei Verletzung des Abtast-Theorems und wie kann eine solche in Mess-Systemen vermieden werden?  
+<br><br>
+<br>Erklären Sie das elektrische Verhalten eines Schwingquarzes (Ersatzschaltbild).  
+<br>Was versteht man unter Serien- / Parallelresonanz?  
+<br>Geben Sie Beispiele für Schwingquarz-Sensoren.  
+<br><br>
+<br>Was ist bei der Signalübertragung im Fall von Spannung bzw. Strom als Mess-Signal zu beachten?  
+<br>Was versteht man unter Spannungsanpassung bzw. Stromanpassung?  
+]]></description><link>https://kronberger-industries-droid.github.io/fragenkatalog-elektronische-messtechnik.html</link><guid isPermaLink="false">Fragenkatalog - Elektronische Messtechnik.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Sat, 22 Feb 2025 20:06:06 GMT</pubDate></item><item><title><![CDATA[Gegengekoppelte Verstärker]]></title><description><![CDATA[ 
+ <br><br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_gk-uu-verstärker.svg" style="width: 500px; max-width: 100%;"><br><br>
+<br>Verstärkt die Eingangsspannung zu einer Ausgangsspannung.
+<br>Hohe Eingangsimpedanz → Belastet die Signalquelle kaum.
+<br>Niedrige Ausgangsimpedanz → Kann direkt nachfolgende Stufen treiben.
+<br>Gute Linearität und Stabilität durch Gegenkopplung.
+<br><br>
+<br>Allgemeine Spannungsverstärkung in Signalketten.
+<br>In Audioverstärkern zur Verstärkung von Audiosignalen.
+<br>In Messverstärkern, um schwache Eingangssignale zu verstärken, ohne sie zu verzerren.
+<br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_gk-ui-verstärker.svg" style="width: 500px; max-width: 100%;"><br><br>
+<br>Wandelt eine Eingangsspannung in einen Ausgangsstrom um.
+<br>Niedrige Eingangsimpedanz, da der Eingang auf Massepotential liegt.
+<br>Hohe Ausgangsimpedanz → Ausgangsstrom ist unabhängig von der Last.
+<br><br>
+<br>In Treiberstufen für LEDs oder Laserdioden, da der Strom präzise gesteuert werden kann.
+<br>In Messwiderständen zur Strommessung, um eine proportionale Spannung zu erzeugen.
+<br>In Stromquellen, die eine präzise Steuerung von Strömen erfordern.
+<br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_gk-iu-verstärker.svg" style="width: 500px; max-width: 100%;"><br><br>
+<br>Wandelt einen Eingangsstrom in eine Ausgangsspannung um.
+<br>Hohe Eingangsimpedanz → Minimale Belastung der Quelle.
+<br>Niedrige Ausgangsimpedanz → Kann Spannungswerte stabil ausgeben.
+<br><br>
+<br>In Fotodiodenverstärkern, da Fotodioden Strom als Ausgangssignal liefern.
+<br>In Sensoranwendungen, wo Ströme in auswertbare Spannungen umgewandelt werden müssen.
+<br>In Messschaltungen, wo Stromsignale einfach weiterverarbeitet werden sollen.
+<br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_gg-ii_verstärker.svg" style="width: 500px; max-width: 100%;"><br><br>
+<br>Verstärkt einen Eingangsstrom zu einem größeren Ausgangsstrom.
+<br>Niedrige Eingangsimpedanz.
+<br>Hohe Ausgangsimpedanz → Ausgangsstrom bleibt unabhängig von der Last.
+<br><br>
+<br>In Stromregelkreisen, z. B. in industriellen Steuerungen.
+<br>In Transkonduktanzverstärkern, wo Ströme verstärkt oder übertragen werden müssen.
+<br>In Treiberstufen für Motorsteuerungen, wenn ein bestimmtes Stromverhalten benötigt wird.
+]]></description><link>https://kronberger-industries-droid.github.io/gegengekoppelte-verstärker.html</link><guid isPermaLink="false">Gegengekoppelte Verstärker.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Tue, 18 Feb 2025 12:37:01 GMT</pubDate><enclosure url="https://kronberger-industries-droid.github.io/esb_gk-uu-verstärker.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://kronberger-industries-droid.github.io/esb_gk-uu-verstärker.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Kapazitive Aufnehmer]]></title><description><![CDATA[ 
+ <br><br>Kapazität eines Kondensators wird durch eine nicht-elektrische Messgröße beeinflusst.<br><br>Ausnutzbare Geber-Effekte:<br>
+<br>Plattenabstand 
+<br>Plattenfläche 
+<br>Relativer Dielektrizitätszahl 
+<br><br><br><br><br><br>
+<br>Welche Arten von kapazitiven Aufnehmern kennen Sie?  
+<br>Geben Sie Beispiele, Skizzen und Anwendungen.  
+]]></description><link>https://kronberger-industries-droid.github.io/kapazitive-aufnehmer.html</link><guid isPermaLink="false">Kapazitive Aufnehmer.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Sat, 22 Feb 2025 20:23:25 GMT</pubDate></item><item><title><![CDATA[Kenngrößen von Sensoren]]></title><description><![CDATA[ 
+ <br><br>Änderung des Mess-Signals bezogen auf (kleine) Messänderung -&gt; Steigung der Tangente an Sensorkennlinie.<br><br>Kleinste nachweisbare Änderung der Messgrößen.<br><br>Maximale Abweichung des gemessenen Wertes im vergleich mit geeichtem Referenz-Normal.<br><br>Auch Linearitätsabweichung: bezeichnet die maximale Abweichung der tatsächlichen von der idealen (linearen) Sensorkennlinie.<br><br>Bereich der Messgröße, innerhalb dessen eine bestimmte Linearität gewährleistet ist.]]></description><link>https://kronberger-industries-droid.github.io/kenngrößen-von-sensoren.html</link><guid isPermaLink="false">Kenngrößen von Sensoren.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Mon, 17 Feb 2025 14:27:38 GMT</pubDate></item><item><title><![CDATA[Ladungsverstärker]]></title><description><![CDATA[ 
+ <br><br>Ein Ladungsverstärker ist essentiell eine Integrator Schaltung, wobei die Ausgangsspannung das negierte Integral (invertierter Verstärker) der Eingangsspannung darstellt. Oder anders ausgedrückt: sinkt die Ausgangsspannung zu jedem Zeitschritt um den aktuellen Wert der Eingangsspannung.<br>
+<img alt="center" src="https://kronberger-industries-droid.github.io/esb_ladungsverstärker.svg" style="width: 500px; max-width: 100%;"><br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/graph_zusammenhang_ladungsverstärker.svg">}}]]></description><link>https://kronberger-industries-droid.github.io/ladungsverstärker.html</link><guid isPermaLink="false">Ladungsverstärker.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Tue, 18 Feb 2025 12:23:23 GMT</pubDate><enclosure url="https://kronberger-industries-droid.github.io/esb_ladungsverstärker.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://kronberger-industries-droid.github.io/esb_ladungsverstärker.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Operationsverstärker]]></title><description><![CDATA[ 
+ <br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_opv.svg" style="width: 500px; max-width: 100%;"><br><br>Ein realer OPV erzeugt eine Ausgangsspannung  auch wenn keine Differenzspannung  angelegt ist. Der Grund dafür sind innere Unsymmetrien.<br><br><img alt="esb_offset-spannung-kompensation.svg" src="https://kronberger-industries-droid.github.io/esb_offset-spannung-kompensation.svg"><br>
+Wobei  eine stabile Versorgungs- oder Referenzspannung darstellt.<br><br>Bezeichnet jene Eingangsspannung  die eine Ausgangspannung   gegen Null bewirkt.<br><br><br>Als Offset-Drift wird die durch Temperatur , Versorgungsspannungs  und zeitliche Änderung bewirkte Änderung der Offset-Spannung  bezeichnet:   <br><br>Diese kann durch folgendes minimiert werden:<br>
+<br>Stabilisierte Betriebsspannung
+<br>Verwenden eines driftarmen OPVs oder eines Chopper-stabilisierten OPVs
+]]></description><link>https://kronberger-industries-droid.github.io/operationsverstärker.html</link><guid isPermaLink="false">Operationsverstärker.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Tue, 18 Feb 2025 12:38:02 GMT</pubDate><enclosure url="https://kronberger-industries-droid.github.io/esb_opv.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://kronberger-industries-droid.github.io/esb_opv.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Rückkopplung und Gegenkopplung]]></title><description><![CDATA[ 
+ <br><br><br>Ist ein Verstärker rückgekoppelt so wird ein teil des Ausgangssignals () rückgeführt und trägt dem Eingangssignal bei. Ob diese rückgeführte Größe () zur Eingangsgröße addiert oder subtrahiert wird klassifiziert die Rückkopplung entweder als Mitkopplung ( + ) oder als Gegenkopplung ( - ).  <br><br><br>Mitkoppelung führt zur selbsterregung des Verstärkers, wodurch er zu einem Oszillator werden kann.<br>
+<img alt="center" src="https://kronberger-industries-droid.github.io/esb_mitkopplung.svg" style="width: 400px; max-width: 100%;"><br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_gegenkopplung.svg" style="width: 400px; max-width: 100%;"><br><br>
+<br>Erhöhung der Linearität
+<br>Stabilisierung des Verstärkungsfaktors
+<br>Vergrößerung des Frequenzbereichs
+<br>Reduktion von Rauschen
+<br>Senken der Ausgangsimpedanz
+<br>Erhöhung der Stabilität
+<br><br>Die Gegenkopplung verringert den Verstärkungsfaktor im Vergleich zu einem offenen Verstärker.<br><br>Für hohe Open Loop Gain :  ist unabhängig von <br><br>und kann durch äußere Beschaltung eingestellt werden.]]></description><link>https://kronberger-industries-droid.github.io/rückkopplung-und-gegenkopplung.html</link><guid isPermaLink="false">Rückkopplung und Gegenkopplung.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Tue, 18 Feb 2025 12:41:02 GMT</pubDate><enclosure url="https://kronberger-industries-droid.github.io/esb_mitkopplung.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://kronberger-industries-droid.github.io/esb_mitkopplung.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Schwingquarze]]></title><description><![CDATA[ 
+ <br><br>Dies sind Quarzplättchen, welche in bestimmter Richtung aus einem Piezoelektrischen Kristall herausgeschnitten wurden und mit Elektroden versehen wurden.<br><br><br>Dies stellt den umgekehrten piezoelektrischen Effekt dar und die Schwingungsart und Resonanzfrequenz hängen vom Schnittwinkel ab.<br><br><img alt="esb_schwinquarz.svg" src="https://kronberger-industries-droid.github.io/esb_schwinquarz.svg"><br>
+<br>
+<br>
+<br>Impedanz (R vernachlässigt):<br><br><br><br>Falls :<br><br><br>Falls :<br><br><br>
+<br>wesentlich höhere Güte (Resonanzschärfe)
+<br>hohe Frequenzstabilität
+<br><br><br>Temperaturabhängigkeit der Resonanzfrequenz:<br><br><br>
+<br>Temperaturkoeffizienten hängen von jeweiligen Schnittwinkeln ab
+<br>Frequenzen sind sehr genau messbar!
+<br>hohe Temperaturauflösung trotz geringer relativer Frequenzänderung
+<br><br><img alt="fig_anwendung-schwindsaitensensor.png" src="https://kronberger-industries-droid.github.io/fig_anwendung-schwindsaitensensor.png"><br>
+Eigenfrequenz  einer gespannten Saite hängt von der Kraft , der Länge  und der Masse  ab:<br><br>Mit:<br><br><br>
+<br>
+<br>
+<br>
+<br>
+<br>Daraus folgt:<br><br> Eigenfrequenz  ist proportional zur Spannung  bzw. Dehnung <br><br><img alt="fig_u-rohr-resonator.png" src="https://kronberger-industries-droid.github.io/fig_u-rohr-resonator.png"><br>
+<br>hohl, mit dem zu untersuchenden Fluid gefüllt bzw. durchströmt
+<br>definiertes Volumen des Messgutes verändert entsprechend seiner Masse  die Frequenz<br>
+Prinzip:
+<br>Frequenz  kann auf Masse  zurückgeführt werden, über bekanntes Volumen  kann Dichte  bestimmt werden.
+<br><br>
+<br>ist im Allgemeinen nicht durchströmt  schwingt im untersuchten Medium (Gas)
+<br>Masse des Schwingers wird um jene Masse des mitschwingenden Gases
+<br>Nun kann wiederum über frequenz die Schwingende Masse, und daraus die Dichte  des Gases bestimmt werden.
+<br>Schwingungsanregung zumeist elektromagnetisch
+<br><br>Messgröße muss  , und/oder , und/oder  beeinflussen<br><img alt="tab_anwendungen-piezoelektrischer-sensoren.png" src="https://kronberger-industries-droid.github.io/tab_anwendungen-piezoelektrischer-sensoren.png">]]></description><link>https://kronberger-industries-droid.github.io/schwingquarze.html</link><guid isPermaLink="false">Schwingquarze.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Sat, 22 Feb 2025 18:40:10 GMT</pubDate><enclosure url="https://kronberger-industries-droid.github.io/esb_schwinquarz.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://kronberger-industries-droid.github.io/esb_schwinquarz.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sensorprinzipien]]></title><description><![CDATA[ 
+ <br><br><br>Bei dieser Art von Transformator sind Primär- und Sekundärspule durch einen verschiebbaren Eisenkern magnetisch Verbunden.<br>
+<img alt="center" src="https://kronberger-industries-droid.github.io/esb_differential-trasformator.png" style="width: 600px; max-width: 100%;"><br>
+<br>Primärspule
+<br>Sekundärspule 1
+<br>Sekundärspule 2
+<br>Hülse
+<br>verschiebbarer Kern<br>
+Die Mittelposition des Kerns () kann als Nullpunkt angesehen werden:
+
+Ausgangsspannungsamplitude direkt proportional zur Verschiebung des Kerns.<br>
+<img alt="center" src="https://kronberger-industries-droid.github.io/graph_differential-transformator.svg" style="width: 400px; max-width: 100%;">
+<br><br>Wegmessung: <br>
+<br>Auflösung 
+<br><br>Hierbei wird ein leidendes Plättchen senkrecht zu einem Magnetfeld .<br>
+<img alt="center" src="https://kronberger-industries-droid.github.io/esb_hall-sonde.png" style="width: 600px; max-width: 100%;"><br>
+Lorentzkraft  auf Ladungsträger  mit geschwindigkeit <br><br> Durch Ladungstrennung erzeugtes Elektrisches Feld  führt zu einer elektrischen Kraft <br><br>welche die Lorentzkraft ausgleichen muss:<br><br>Die durch das Elektrische Feld erzeugte Spannung  kann mithilfe der Breite des Leiters  berechnet werden<br><br>Nun Kann die Driftgeschwindigkeit  der  Ladungsträger mithilfe des Stroms   und der durchflossenen Fläche  beschrieben werden<br><br>Daraus folgt der Ausdruck für die Hall-Spannung<br><br><br>
+<br>Messung von Magnetfeldern:<br>
+Bei konstantem Strom  gilt 
+
+<br>Potentialfreie Messung hoher Ströme mittels Messung Magnetischer Induktion
+<br>Druckmessung mittels Bewegung eines Dauermagneten (Veränderung von  durch Bewegung des Dauermagneten)
+
+
+<br><br>Zwei unterschiedliche Materialien sind an den Kontaktstellen  verbunden, zwischen diesen Kontaktstellen entstehen temperaturabhängige Kontaktspannungen .<br>
+<img alt="center" src="https://kronberger-industries-droid.github.io/esb_thermoelement.svg" style="width: 500px; max-width: 100%;"><br>
+Ursache: Seebeck-Effekt<br><br>Für die Materialkonstanten gilt:<br><br>Daraus Folgt:<br><br><br>Messung sehr hoher bzw. sehr tiefer Temperaturen.<br>
+Zumeist in folgender Ausführung, wobei 2-Kontaktstellen  auf gleicher Temperatur  gehalten werden.<br><br>Wobei eine Kontaktstelle  zur Messung der Temperatur verwendet wird.<br>
+<img alt="esb_3-material-thermoelement.svg" src="https://kronberger-industries-droid.github.io/esb_3-material-thermoelement.svg"><br>
+Daraus folgt:<br><br><br>
+<br>hochomige Messung von sehr kleinen Spannungen.
+<br>eingeschränkte Linearität
+<br>Vergleichstemperatur  muss bekannt sein.
+<br><br>Durchlassstrom  einer Diode ist temperaturabhängig:<br><br>Spannung  in Durchlassrichtung:<br><br>ist proportional zu , jedoch Sperrstrom <br>
+Dieses Problem kann durch das Betrachten unterschiedlichen Strömen  und das Bilden der Differenz ihren zugehörigen Spannungen , wodurch ein Ausdruck proportional zu  erreicht wird:<br><br><br>
+<br>Diode als Basis-Emitter-Strecke eines Transistors ausgeführt
+<br>Integrierter Temperatursensor besteht aus 2 identischen, thermisch gekoppelten, Transistoren, welche mit unterschiedlichen Emitterströmen betrieben werden.
+<br><br>
+<br>Empfindlichkeit: 
+<br>Messbereich: 
+<br><br>In Sperr-Richtung betriebene Diode:<br><br><br><br>
+<br>Messgröße: Leerlauf-Ausgangsspannung  (Photospannung)<br>
+Eigenschaften:
+<br>Kein externer Stromfluss
+<br>Spannung entsteht durch die Trennung der Elektron-Loch-Paare
+<br>Logarithmische Abhängigkeit der Spannung von der Lichtintensität<br>
+Vorteile:
+<br>Keine externe Versorgung nötig
+<br>Geeignet für Spannungssensoren (z. B. Solarzellen)<br>
+Nachteile:
+<br>Höhere interne Widerstände können Signalverzerrungen verursachen
+<br>Langsamere Reaktion im Vergleich zum Kurzschlussbetrieb
+<br><br>Messgröße: Kurzschluss-Ausgangsstrom <br>
+Eigenschaften:<br>
+<br>Stromfluss bei sehr geringem Widerstand (niederohmiger Abschluss)
+<br>Lineare Abhängigkeit des Stroms von der Lichtintensität<br>
+Vorteile:
+<br>Sehr schnelle Reaktion auf Lichtänderungen
+<br>Hohe Präzision, da der Dunkelstrom vernachlässigbar ist<br>
+Nachteile:
+<br>Externer Verstärker oft notwendig
+<br>Höhere Leistungsaufnahme als im Leerlaufbetrieb
+<br><br>Eine externe Spannung (in Sperrrichtung) kann angelegt werden, um die Sperrschichtkapazität zu reduzieren.<br>
+Vorteile:<br>
+<br>Geringere Sperrschichtkapazität → kürzere Anstiegszeit → höhere Grenzfrequenz<br>
+Nachteile:
+<br>Erhöhter Dunkelstrom, was das Signal-Rausch-Verhältnis verschlechtern kann
+<br><br>Piezoelektrische Stoffe:<br>
+positive und negative Ladungen sind unsymmetrisch verteilt und führt zu elektrischer Polarisation.<br><br><img alt="esb_piezoelektrische-effekte.png" src="https://kronberger-industries-droid.github.io/esb_piezoelektrische-effekte.png"><br>
+Längseffekt:<br>
+Ladungen enstehen an den belasteten Flächen<br>Quereffekt:<br>
+Ladungen entstehen quer zu den belasteten Flächen<br>Schereffekt:<br>
+Polarisation durch Schubspannungen<br><br>Einkristalle:<br>
+Quarz , Lithiumtantalat , <br>
+polikristalline keramische Stoffe:<br>
+Bariumtitanat , Bleititanat , Blei-Zirkonat-Titanat () , <br>
+organische Polymere:<br>
+Polyvinylidendifluorid ()]]></description><link>https://kronberger-industries-droid.github.io/sensorprinzipien.html</link><guid isPermaLink="false">Sensorprinzipien.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Thu, 20 Feb 2025 13:49:17 GMT</pubDate><enclosure url="https://kronberger-industries-droid.github.io/esb_differential-trasformator.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://kronberger-industries-droid.github.io/esb_differential-trasformator.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Signalübertragung]]></title><description><![CDATA[ 
+ <br><br><br>Messkette, bestehend aus Sensor, Übertragungsleitung und Empfänger<br><img alt="esb_messkette-spannungsmessung.svg" src="https://kronberger-industries-droid.github.io/esb_messkette-spannungsmessung.svg"><br>Sender:<br>
+ideale Spannungsquelle mit Innenwiderstand , Quellenspannung  entspricht der Messgröße <br>Leitung:<br>
+Leitungswiderstand  (Hin- und Rückleitung!)<br>Empfänger:<br>
+Eingangswiderstand <br><br><br>Minimierung des Fehlers durch Innen- und Leitungswiderstände<br><br>Probleme:<br>
+große Leitungslänge, hochohmigkeit (störempfindlich)<br><br><img alt="esb_messkette-spannungmessung.svg" src="https://kronberger-industries-droid.github.io/esb_messkette-spannungmessung.svg"><br>Sender:<br>
+ideale Stromquelle mit Innenwiderstand , Quellenstrom  entspricht der Messgröße <br>Leitung:<br>
+Leitungswiderstand  (Hin- und Rückleitung!)<br>Empfänger:<br>
+Eingangswiderstand <br><br>Daraus folgt:<br><br><br>Minimierung des Fehlers durch Innen- und Leitungswiderstände<br><br>Vorteil:<br>
+wesentlich geringere Störanfälligkeit bezüglich kapazitiv oder induktiv eingekoppelter Störspannungen wegen niederohmigkeit des Empfangskreises (Störspannungen werden "kurzgeschlossen")<br> Einfluss des Leitungswiderstandes wird gänzlich eleminiert durch Stromeinprägung ]]></description><link>https://kronberger-industries-droid.github.io/signalübertragung.html</link><guid isPermaLink="false">Signalübertragung.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Sat, 22 Feb 2025 19:56:23 GMT</pubDate><enclosure url="https://kronberger-industries-droid.github.io/esb_messkette-spannungsmessung.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://kronberger-industries-droid.github.io/esb_messkette-spannungsmessung.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Signalverarbeitung]]></title><description><![CDATA[ 
+ <br><br><br>Abtastfrequenz  muss größer sein als das Doppelte der höchsten im Mess-Signal enthaltene Frequenzkomponente :<br><br><br>
+<br>Abtastwerte geben Mess-Signal nicht eindeutig wieder
+<br>unterschiedliche Signale können die selben Abtastwerte liefern
+<br>Fehlinterpretation der Abtastwerte führt zur Vorspiegelung nicht im Signal enthaltener ("alias") Frequenzen (Aliasing-Effekt)
+<br><br>
+<br>Abtasttheorem einhalten! (Steht wirklich so drinnen...)
+<br>ggf. Tiefpass-Filter ("Anti-Aliasing-Filter") vorschalten.
+]]></description><link>https://kronberger-industries-droid.github.io/signalverarbeitung.html</link><guid isPermaLink="false">Signalverarbeitung.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Fri, 21 Feb 2025 17:02:39 GMT</pubDate></item><item><title><![CDATA[Verstärkertypen]]></title><description><![CDATA[ 
+ <br><br><br>Verstärker können anhand ihrer art der Linearisierung klassifiziert werden. Verhaltet sich zum Beispiel die Eingangsspannung  linear zum Ausgangsstrom  wird dieser Verstärker als i/u-Verstärker bezeichnet. Wobei die erste Stelle den Ausgangswert kennzeichnet und die zweite den Eingangswert. Daher gibt es folgende Verstärker typen:<br>
+<br>u/u-Verstärker
+<br>i/u-Verstärker
+<br>i/i-Verstärker
+<br>u/i-Verstärker
+<br><br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_u-u_verstärker.svg" style="width: 400px; max-width: 100%;"><br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_i-u_verstärker.svg" style="width: 400px; max-width: 100%;"><br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_u-i_verstärker.svg" style="width: 400px; max-width: 100%;"><br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_i-i_verstärker.svg" style="width: 400px; max-width: 100%;">]]></description><link>https://kronberger-industries-droid.github.io/verstärkertypen.html</link><guid isPermaLink="false">Verstärkertypen.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Mon, 17 Feb 2025 15:53:04 GMT</pubDate><enclosure url="https://kronberger-industries-droid.github.io/esb_u-u_verstärker.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://kronberger-industries-droid.github.io/esb_u-u_verstärker.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Widerstandsmessungen]]></title><description><![CDATA[ 
+ <br><br><br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_stromrichtige-widerstandsmessung.svg" style="width: 500px; max-width: 100%;"><br>
+<br>Strom durch  wird korrekt gemessen
+<br>Spannungsabfall am Amperemeter is ggf. zu berücksichtigen:
+
+
+<br>vorteilhaft, wenn  klein
+<br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_spannungsrichtige-widerstandsmessung.svg" style="width: 500px; max-width: 100%;"><br>
+<br>Spannung an  wird korrekt gemessen
+<br>Strom durch Voltmeter ist ggf. zu berücksichtigen.
+
+
+<br>vorteilhaft, wenn  groß 
+<br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_vergleich-r-ref-strom.svg" style="width: 500px; max-width: 100%;"><br>
+<br>Speißung mit Konstantstrom 
+<br>Messung der Spannungen
+
+
+<br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_vergleich-r-ref-spannung.svg" style="width: 300px; max-width: 100%;"><br>
+<br>Speisung mit Konstantspannung 
+<br>Messung der Ströme
+
+
+<br>Anwendung: Messung des Isolationswiderstandes bei einer vorgeschriebenen Isolationsspannung 
+<br><br>Speisung des unbekannten Widerstandes  mit bekanntem Konstantstrom , Messung der Spannung.<br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_widerstandsmessung-konst-strom.svg" style="width: 300px; max-width: 100%;"><br><br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_widerstandsmessung-konst-strom-niederohm.svg" style="width: 300px; max-width: 100%;"><br>
+<br>wie zuvor, jedoch speziell zur Messung niederohmiger Widerstände werden separate Klemmen für Strom () und Spannung () verwendet.
+<br>Vermeidung von Messfehlern durch Übergangs- oder Leitungswiderstände, da im Spannungsmesskreis nahezu kein Strom fließt.
+<br><br><img alt="center" src="https://kronberger-industries-droid.github.io/esb_abgleich-messbrücke.svg" style="width: 300px; max-width: 100%;"><br>
+Wobei:<br>
+<br>
+<br><br>Daraus folgt:<br><br>Bedingung für abgeglichene Brücke :<br><br><br>Bestimmung des Widerstandes  durch Abgleichen der Brücke und Berechnung aus den drei anderen Widerständen.<br><br>
+<br>einer der Beiden Brückenzweige als Potentiometer ausgeführt
+<br>einer der Brückenzweige in Stufen verstellbar
+<br><br>
+<br>Ausgangspunkt: abgeglichene Messbrücke
+<br>Veränderung eines Widerstandes 
+<br>Brücken-Differenzspannung, kann zur Berechnung von  verwendet werden.
+<br><br>Ausschlagmessbrücke mit 1. von 4. Widerständen veränderlich:<br>
+<img alt="center" src="https://kronberger-industries-droid.github.io/esb_viertelbrücke.svg" style="width: 300px; max-width: 100%;"><br><br>Daraus folgt:<br><br><img alt="graph_viertelbrücke.svg" src="https://kronberger-industries-droid.github.io/graph_viertelbrücke.svg"><br>
+<br>Brückenspannung hängt nichtlinear von  ab
+<br>Empfindlichkeit  ist nicht konstant<br>
+Daher nur geeignet für Messung kleiner Widerstandsänderungen in der Nähe des Arbeitspunktes 
+<br><br><br>Ausschlag-Messbrücke mit 2 veränderlichen Widerständen<br>
+<img alt="center" src="https://kronberger-industries-droid.github.io/esb_halbbrücke.svg" style="width: 300px; max-width: 100%;"><br><br><br>Ausschlag-Messbrücke mit 4 veränderlichen Widerständen<br>
+<img alt="center" src="https://kronberger-industries-droid.github.io/esb_vollbrücke.svg" style="width: 300px; max-width: 100%;"><br><br><br>
+<br>Brückenspannung hängt linear von der relativen Widerstandsänderung  ab.
+<br>Empfindlichkeit ist konstant
+<br>Gleichsinnige Änderung aller Widerstände wirken sich bei der spannungsgespeisten nicht abgegelichenen Brücke auf die Brückenspannung aus.
+<br><br>
+<br>insbesondere zur Auswertung der Signale von Dehnmess-Streifen.
+<br>Differential-Sensoren wie zum Beispiel induktive Weg-Sensoren
+<br><br>Elektrischer Widerstand steigt mit Temperatur (Kaltleiter)<br><br><br>
+<br>
+<br>da  lineare Näherung in weitem Temperaturbereich zulässig <br><br><img alt="esb_pt-100-messschaltung.svg" src="https://kronberger-industries-droid.github.io/esb_pt-100-messschaltung.svg">]]></description><link>https://kronberger-industries-droid.github.io/widerstandsmessungen.html</link><guid isPermaLink="false">Widerstandsmessungen.md</guid><dc:creator><![CDATA[Martin Kronberger]]></dc:creator><pubDate>Fri, 21 Feb 2025 13:18:21 GMT</pubDate><enclosure url="https://kronberger-industries-droid.github.io/esb_stromrichtige-widerstandsmessung.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://kronberger-industries-droid.github.io/esb_stromrichtige-widerstandsmessung.svg"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
