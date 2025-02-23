@@ -1,8 +1,14 @@
 {
   "vaultName": "university-obsidian-vault",
+<<<<<<< HEAD
   "lastExport": 1740333192852,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon minimal-default-light minimal-line-nums minimal-readable colorful-headings colorful-active links-int-on links-ext-on full-width-media",
+=======
+  "lastExport": 1740310855444,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon minimal-default-light minimal-readable colorful-headings colorful-active links-int-on links-ext-on full-width-media minimal-line-nums",
+>>>>>>> refs/remotes/origin/main
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
@@ -99,6 +105,41 @@
     "Verstärkertypen.md",
     "Widerstandsmessungen.md",
     "src/graph_zusammenhang_ladungsverstärker.svg",
+<<<<<<< HEAD
+=======
+    "src/esb_opv.svg",
+    "src/esb_offset-spannung-kompensation.svg",
+    "src/esb_mitkopplung.svg",
+    "src/esb_gegenkopplung.svg",
+    "src/esb_schwinquarz.svg",
+    "src/fig_anwendung-schwindsaitensensor.png",
+    "src/fig_u-rohr-resonator.png",
+    "src/tab_anwendungen-piezoelektrischer-sensoren.png",
+    "src/esb_differential-trasformator.png",
+    "src/graph_differential-transformator.svg",
+    "src/esb_hall-sonde.png",
+    "src/esb_thermoelement.svg",
+    "src/esb_3-material-thermoelement.svg",
+    "src/esb_piezoelektrische-effekte.png",
+    "src/esb_messkette-spannungsmessung.svg",
+    "src/esb_messkette-spannungmessung.svg",
+    "src/esb_u-u_verstärker.svg",
+    "src/esb_i-u_verstärker.svg",
+    "src/esb_u-i_verstärker.svg",
+    "src/esb_i-i_verstärker.svg",
+    "src/esb_stromrichtige-widerstandsmessung.svg",
+    "src/esb_spannungsrichtige-widerstandsmessung.svg",
+    "src/esb_vergleich-r-ref-strom.svg",
+    "src/esb_vergleich-r-ref-spannung.svg",
+    "src/esb_widerstandsmessung-konst-strom.svg",
+    "src/esb_widerstandsmessung-konst-strom-niederohm.svg",
+    "src/esb_abgleich-messbrücke.svg",
+    "src/esb_viertelbrücke.svg",
+    "src/graph_viertelbrücke.svg",
+    "src/esb_halbbrücke.svg",
+    "src/esb_vollbrücke.svg",
+    "src/esb_pt-100-messschaltung.svg",
+>>>>>>> refs/remotes/origin/main
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -211,7 +252,11 @@
   ],
   "fileInfo": {
     "Digitale Messtechnik.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 605,
       "exportedPath": "digitale-messtechnik.html",
       "dependencies": [
@@ -222,13 +267,22 @@
       ]
     },
     "Fragenkatalog - Elektronische Messtechnik.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
       "sourceSize": 4375,
+=======
+      "modifiedTime": 1740310855444,
+      "sourceSize": 4374,
+>>>>>>> refs/remotes/origin/main
       "exportedPath": "fragenkatalog-elektronische-messtechnik.html",
       "dependencies": []
     },
     "Gegengekoppelte Verstärker.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 2704,
       "exportedPath": "gegengekoppelte-verstärker.html",
       "dependencies": [
@@ -239,13 +293,21 @@
       ]
     },
     "Kenngrößen von Sensoren.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 630,
       "exportedPath": "kenngrößen-von-sensoren.html",
       "dependencies": []
     },
     "Ladungsverstärker.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 730,
       "exportedPath": "ladungsverstärker.html",
       "dependencies": [
@@ -254,7 +316,11 @@
       ]
     },
     "Operationsverstärker.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 1123,
       "exportedPath": "operationsverstärker.html",
       "dependencies": [
@@ -263,7 +329,11 @@
       ]
     },
     "Rückkopplung und Gegenkopplung.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 1434,
       "exportedPath": "rückkopplung-und-gegenkopplung.html",
       "dependencies": [
@@ -272,18 +342,33 @@
       ]
     },
     "Schwingquarze.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
       "sourceSize": 4462,
+=======
+      "modifiedTime": 1740310855444,
+      "sourceSize": 3222,
+>>>>>>> refs/remotes/origin/main
       "exportedPath": "schwingquarze.html",
       "dependencies": [
         "src/esb_schwinquarz.svg",
         "src/fig_anwendung-schwindsaitensensor.png",
+<<<<<<< HEAD
         "src/fig_u-rohr-resonator.png"
       ]
     },
     "Sensorprinzipien.md": {
       "modifiedTime": 1740333192852,
       "sourceSize": 6343,
+=======
+        "src/fig_u-rohr-resonator.png",
+        "src/tab_anwendungen-piezoelektrischer-sensoren.png"
+      ]
+    },
+    "Sensorprinzipien.md": {
+      "modifiedTime": 1740310855444,
+      "sourceSize": 6332,
+>>>>>>> refs/remotes/origin/main
       "exportedPath": "sensorprinzipien.html",
       "dependencies": [
         "src/esb_differential-trasformator.png",
@@ -295,7 +380,11 @@
       ]
     },
     "Signalübertragung.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 1655,
       "exportedPath": "signalübertragung.html",
       "dependencies": [
@@ -304,14 +393,23 @@
       ]
     },
     "Signalverarbeitung.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 734,
       "exportedPath": "signalverarbeitung.html",
       "dependencies": []
     },
     "Verstärkertypen.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
       "sourceSize": 863,
+=======
+      "modifiedTime": 1740310855444,
+      "sourceSize": 1052,
+>>>>>>> refs/remotes/origin/main
       "exportedPath": "verstärkertypen.html",
       "dependencies": [
         "src/esb_u-u_verstärker.svg",
@@ -321,8 +419,13 @@
       ]
     },
     "Widerstandsmessungen.md": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
       "sourceSize": 4626,
+=======
+      "modifiedTime": 1740310855444,
+      "sourceSize": 4604,
+>>>>>>> refs/remotes/origin/main
       "exportedPath": "widerstandsmessungen.html",
       "dependencies": [
         "src/esb_stromrichtige-widerstandsmessung.svg",
@@ -340,539 +443,895 @@
       ]
     },
     "src/table_jk-flipflop.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 35898,
       "exportedPath": "src/table_jk-flipflop.svg",
       "dependencies": []
     },
     "src/esb_4-bit-binärzähler.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 25919,
       "exportedPath": "src/esb_4-bit-binärzähler.svg",
       "dependencies": []
     },
     "src/graph_4-bit-binärzähler.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 74129,
       "exportedPath": "src/graph_4-bit-binärzähler.svg",
       "dependencies": []
     },
     "src/esb_digitale-frequenz-messung.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 22412,
       "exportedPath": "src/esb_digitale-frequenz-messung.svg",
       "dependencies": []
     },
     "src/esb_gk-uu-verstärker.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 19549,
       "exportedPath": "src/esb_gk-uu-verstärker.svg",
       "dependencies": []
     },
     "src/esb_gk-ui-verstärker.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 15763,
       "exportedPath": "src/esb_gk-ui-verstärker.svg",
       "dependencies": []
     },
     "src/esb_gk-iu-verstärker.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 16978,
       "exportedPath": "src/esb_gk-iu-verstärker.svg",
       "dependencies": []
     },
     "src/esb_gg-ii_verstärker.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 18913,
       "exportedPath": "src/esb_gg-ii_verstärker.svg",
       "dependencies": []
     },
     "src/esb_ladungsverstärker.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 16509,
       "exportedPath": "src/esb_ladungsverstärker.svg",
       "dependencies": []
     },
     "src/graph_zusammenhang_ladungsverstärker.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 31802,
       "exportedPath": "src/graph_zusammenhang_ladungsverstärker.svg",
       "dependencies": []
     },
     "src/esb_opv.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 17730,
       "exportedPath": "src/esb_opv.svg",
       "dependencies": []
     },
     "src/esb_offset-spannung-kompensation.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 59451,
       "exportedPath": "src/esb_offset-spannung-kompensation.svg",
       "dependencies": []
     },
     "src/esb_mitkopplung.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 10320,
       "exportedPath": "src/esb_mitkopplung.svg",
       "dependencies": []
     },
     "src/esb_gegenkopplung.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 10339,
       "exportedPath": "src/esb_gegenkopplung.svg",
       "dependencies": []
     },
     "src/esb_schwinquarz.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 19198,
       "exportedPath": "src/esb_schwinquarz.svg",
       "dependencies": []
     },
     "src/esb_differential-trasformator.png": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 167376,
       "exportedPath": "src/esb_differential-trasformator.png",
       "dependencies": []
     },
     "src/graph_differential-transformator.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 13436,
       "exportedPath": "src/graph_differential-transformator.svg",
       "dependencies": []
     },
     "src/esb_hall-sonde.png": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 93702,
       "exportedPath": "src/esb_hall-sonde.png",
       "dependencies": []
     },
     "src/esb_thermoelement.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 11424,
       "exportedPath": "src/esb_thermoelement.svg",
       "dependencies": []
     },
     "src/esb_3-material-thermoelement.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 24675,
       "exportedPath": "src/esb_3-material-thermoelement.svg",
       "dependencies": []
     },
     "src/esb_piezoelektrische-effekte.png": {
-      "modifiedTime": 1740279248736,
+      "modifiedTime": 1740310855444,
       "sourceSize": 67061,
       "exportedPath": "src/esb_piezoelektrische-effekte.png",
       "dependencies": []
     },
     "src/esb_u-u_verstärker.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 7327,
       "exportedPath": "src/esb_u-u_verstärker.svg",
       "dependencies": []
     },
     "src/esb_i-u_verstärker.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 8117,
       "exportedPath": "src/esb_i-u_verstärker.svg",
       "dependencies": []
     },
     "src/esb_u-i_verstärker.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 7322,
       "exportedPath": "src/esb_u-i_verstärker.svg",
       "dependencies": []
     },
     "src/esb_i-i_verstärker.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 8076,
       "exportedPath": "src/esb_i-i_verstärker.svg",
       "dependencies": []
     },
     "src/esb_stromrichtige-widerstandsmessung.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 9794,
       "exportedPath": "src/esb_stromrichtige-widerstandsmessung.svg",
       "dependencies": []
     },
     "src/esb_spannungsrichtige-widerstandsmessung.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 11123,
       "exportedPath": "src/esb_spannungsrichtige-widerstandsmessung.svg",
       "dependencies": []
     },
     "src/esb_vergleich-r-ref-strom.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 8735,
       "exportedPath": "src/esb_vergleich-r-ref-strom.svg",
       "dependencies": []
     },
     "src/esb_vergleich-r-ref-spannung.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 9909,
       "exportedPath": "src/esb_vergleich-r-ref-spannung.svg",
       "dependencies": []
     },
     "src/esb_widerstandsmessung-konst-strom.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 9430,
       "exportedPath": "src/esb_widerstandsmessung-konst-strom.svg",
       "dependencies": []
     },
     "src/esb_widerstandsmessung-konst-strom-niederohm.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 12432,
       "exportedPath": "src/esb_widerstandsmessung-konst-strom-niederohm.svg",
       "dependencies": []
     },
     "src/esb_abgleich-messbrücke.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 15594,
       "exportedPath": "src/esb_abgleich-messbrücke.svg",
       "dependencies": []
     },
     "src/esb_viertelbrücke.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 14446,
       "exportedPath": "src/esb_viertelbrücke.svg",
       "dependencies": []
     },
     "src/graph_viertelbrücke.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 21177,
       "exportedPath": "src/graph_viertelbrücke.svg",
       "dependencies": []
     },
     "src/esb_halbbrücke.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
       "sourceSize": 15004,
+=======
+      "modifiedTime": 1740310855444,
+      "sourceSize": 14952,
+>>>>>>> refs/remotes/origin/main
       "exportedPath": "src/esb_halbbrücke.svg",
       "dependencies": []
     },
     "src/esb_vollbrücke.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
       "sourceSize": 15887,
+=======
+      "modifiedTime": 1740310855444,
+      "sourceSize": 15810,
+>>>>>>> refs/remotes/origin/main
       "exportedPath": "src/esb_vollbrücke.svg",
       "dependencies": []
     },
     "src/esb_pt-100-messschaltung.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 6491,
       "exportedPath": "src/esb_pt-100-messschaltung.svg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
       "sourceSize": 35394,
+=======
+      "modifiedTime": 1740310855444,
+      "sourceSize": 5355,
+>>>>>>> refs/remotes/origin/main
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 1345,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 137305,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 228400,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 335,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 478,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
+<<<<<<< HEAD
     "src/esb_3-material-thermoelement.xml": {
       "modifiedTime": 1740333192852,
       "sourceSize": 2550,
@@ -1097,16 +1556,31 @@
     },
     "src/fig_anwendung-schwindsaitensensor.png": {
       "modifiedTime": 1740333192852,
+=======
+    "Kapazitive Aufnehmer.md": {
+      "modifiedTime": 1740310855444,
+      "sourceSize": 712,
+      "exportedPath": "kapazitive-aufnehmer.html",
+      "dependencies": []
+    },
+    "src/fig_anwendung-schwindsaitensensor.png": {
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 94709,
       "exportedPath": "src/fig_anwendung-schwindsaitensensor.png",
       "dependencies": []
     },
     "src/fig_u-rohr-resonator.png": {
+<<<<<<< HEAD
       "modifiedTime": 1740333192852,
+=======
+      "modifiedTime": 1740310855444,
+>>>>>>> refs/remotes/origin/main
       "sourceSize": 56060,
       "exportedPath": "src/fig_u-rohr-resonator.png",
       "dependencies": []
     },
+<<<<<<< HEAD
     "src/graph_4-bit-binärzähler.xml": {
       "modifiedTime": 1740333192852,
       "sourceSize": 3002,
@@ -1147,6 +1621,24 @@
       "modifiedTime": 1740333192852,
       "sourceSize": 712,
       "exportedPath": "kapazitive-aufnehmer.html",
+=======
+    "src/tab_anwendungen-piezoelektrischer-sensoren.png": {
+      "modifiedTime": 1740310855444,
+      "sourceSize": 100563,
+      "exportedPath": "src/tab_anwendungen-piezoelektrischer-sensoren.png",
+      "dependencies": []
+    },
+    "src/esb_messkette-spannungsmessung.svg": {
+      "modifiedTime": 1740310855444,
+      "sourceSize": 15036,
+      "exportedPath": "src/esb_messkette-spannungsmessung.svg",
+      "dependencies": []
+    },
+    "src/esb_messkette-spannungmessung.svg": {
+      "modifiedTime": 1740310855444,
+      "sourceSize": 18945,
+      "exportedPath": "src/esb_messkette-spannungmessung.svg",
+>>>>>>> refs/remotes/origin/main
       "dependencies": []
     }
   }
